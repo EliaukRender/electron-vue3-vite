@@ -8,7 +8,7 @@
         <div class="login-logo">
           <!--          <img class="login-icon" src="@/assets/images/common/logo.jpg" alt="">-->
           <h2 class="logo-text">
-            视频下载系统
+            仲裁视频下载
           </h2>
         </div>
         <login-form/>
@@ -22,5 +22,5 @@ import LoginForm from "@/views/login/components/LoginForm.vue";
 </script>
 
 <style scoped lang="scss">
-@import "./index.scss";
+@use "./index.scss";
 </style>
